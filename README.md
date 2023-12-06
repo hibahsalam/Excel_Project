@@ -3,14 +3,17 @@ Creating a simple excel project to demonstrate skills in creating a dashboard.
 
 
 Project Name – Bike Sales Dashboard
+
 Objectives
-1.	Create visualization of the bike sales
-2.	Create some filters to interact with the data
+1. Create visualization of the bike sales
+2. Create some filters to interact with the data
+   
 Queries
 When considering the customer audience, there are many factors to look into. The factors addressed in this project are:
 o	Average income of a person who bought a bike or who didn’t buy a bike.
 o	Commuting distance of a person from home to workplace.
 o	Age brackets.
+
 Instructions
 Create the following three worksheets
 •	Working sheet – this is a copy of the dataset which we will work on and keep the original file of the dataset for reference.
