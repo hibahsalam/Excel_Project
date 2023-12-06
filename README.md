@@ -10,21 +10,20 @@ Objectives
    
 Queries
 When considering the customer audience, there are many factors to look into. The factors addressed in this project are:
-o	Average income of a person who bought a bike or who didn’t buy a bike.
-o	Commuting distance of a person from home to workplace.
-o	Age brackets.
+1. Average income of a person who bought a bike or who didn’t buy a bike.
+2. Commuting distance of a person from home to workplace.
+3. Age brackets.
 
 Instructions
+
 Create the following three worksheets
-•	Working sheet – this is a copy of the dataset which we will work on and keep the original file of the dataset for reference.
-	Clean the data
-o	Check for duplicates 
-(Command : data tab -> data tools -> remove duplicates)
-o	Remove short forms – short forms create confusion and the dataset contains two columns with short forms(marital status and gender). Find and replace with the full word. 
-(Command : ctrl h (search by all columns))
-o	Correct the currency – income column has dollar signs within the data which can create a mess with calculations
-o	Create age brackets
-o	Correct commute distance range – when performing visualization you get the following error as the naming of the columns are incorrect hence we correct the naming in a way that the range in the visualization is optimum. 
+1. Working sheet – this is a copy of the dataset which we will work on and keep the original file of the dataset for reference.
+   Clean the data
+   1. Check for duplicates - (Command : data tab -> data tools -> remove duplicates)
+   2. Remove short forms – short forms create confusion and the dataset contains two columns with short forms(marital status and gender). Find and replace with the full word. - (Command : ctrl h (search by all columns))
+   3. Correct the currency – income column has dollar signs within the data which can create a mess with calculations
+   4. Create age brackets
+   5. Correct commute distance range – when performing visualization you get the following error as the naming of the columns are incorrect hence we correct the naming in a way that the range in the visualization is optimum. 
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/2f5cbe6d-4ece-44e6-afbf-1fd909aafa7e)
 
 
