@@ -43,8 +43,8 @@ Create the following three worksheets
       
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/77501316-aae0-4b8b-97b2-5906d3fdeafa)
 
-
-	3. Age brackets are a factor to consider in the sales of bikes
+   
+   3. Age brackets are a factor to consider in the sales of bikes
       Values – purchased bike 
       Rows – age brackets
       Columns - purchased bike
@@ -52,14 +52,15 @@ Create the following three worksheets
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/95930fea-9f68-4db7-921c-413a0e6d3702)
 
 
-•	Dashboard 
-	Presentation - remove gridlines to make it look nice.
-	Make a title header – “Bike Sales Dashboard” and ‘ merge and center’.
-	Arrange charts and align according to your requirements.
-	There are other element people would like to filter by, for example, single vs married. Are single people buying more bikes compared to married people?
-(Command – click on any chart -> pivotChartAnalyze tab -> filter -> insert slicer)
-	To apply slicer to all visualizations –
- (Command : click on the slicer -> slicer tab -> report connections and select your choice of pivot tables)
+3. Dashboard
+   1. Presentation - remove gridlines to make it look nice.
+   2. Make a title header – “Bike Sales Dashboard” and ‘ merge and center’.
+   3. Arrange charts and align according to your requirements.
+   4. There are other element people would like to filter by, for example, single vs married. Are single people buying more bikes compared to married people?
+      (Command – click on any chart -> pivotChartAnalyze tab -> filter -> insert slicer)
+   5. To apply slicer to all visualizations –
+      (Command : click on the slicer -> slicer tab -> report connections and select your choice of pivot tables)
+
 
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/6748a67e-204f-4ca3-a466-17f6668b2d8c)
 
