@@ -2,19 +2,21 @@
 Creating a simple excel project to demonstrate skills in creating a dashboard.
 
 
-Project Name – Bike Sales Dashboard
+PROJECT NAME – Bike Sales Dashboard
 
-Objectives
+OBJECTIVES
+
 1. Create visualization of the bike sales
 2. Create some filters to interact with the data
    
-Queries
+QUERIES
+
 When considering the customer audience, there are many factors to look into. The factors addressed in this project are:
 1. Average income of a person who bought a bike or who didn’t buy a bike.
 2. Commuting distance of a person from home to workplace.
 3. Age brackets.
 
-Instructions
+INSTRUCTIONS
 
 Create the following three worksheets
 1. Working sheet – this is a copy of the dataset which we will work on and keep the original file of the dataset for reference.
@@ -26,25 +28,27 @@ Create the following three worksheets
    5. Correct commute distance range – when performing visualization you get the following error as the naming of the columns are incorrect hence we correct the naming in a way that the range in the visualization is optimum. 
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/2f5cbe6d-4ece-44e6-afbf-1fd909aafa7e)
 
-
-•	Pivot Table - to generate charts – (Commands : insert tab -> charts -> recommended charts)
-	Average income of a person that bought a bike verses who didn’t buy a bike
-Values – income 
-Rows – gender
-Columns - purchased bike
+2. Pivot Table - to generate charts – (Commands : insert tab -> charts -> recommended charts)
+   1. Average income of a person that bought a bike verses who didn’t buy a bike
+      Values – income
+      Rows – gender
+      Columns - purchased bike
+      
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/08440dd5-b6a6-40d1-870c-984a9220e40e)
 
-	Commuting distance of a person from home to their workplace
-Values – purchased bike 
-Rows – commute distance
-Columns - purchased bike
+   2. Commuting distance of a person from home to their workplace
+      Values – purchased bike
+      Rows – commute distance
+      Columns - purchased bike
+      
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/77501316-aae0-4b8b-97b2-5906d3fdeafa)
 
 
-	Age brackets are a factor to consider in the sales of bikes
-Values – purchased bike 
-Rows – age brackets
-Columns - purchased bike
+	3. Age brackets are a factor to consider in the sales of bikes
+      Values – purchased bike 
+      Rows – age brackets
+      Columns - purchased bike
+      
  ![image](https://github.com/hibahsalam/Excel_Project/assets/63388880/95930fea-9f68-4db7-921c-413a0e6d3702)
 
 
