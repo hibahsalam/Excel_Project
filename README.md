@@ -53,6 +53,7 @@ Create the following three worksheets
 
 
 3. Dashboard
+
    1. Presentation - remove gridlines to make it look nice.
    2. Make a title header – “Bike Sales Dashboard” and ‘ merge and center’.
    3. Arrange charts and align according to your requirements.
